@@ -13,4 +13,11 @@
 
 .parallax-container {
       height: 250px;
-    }
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    margin-left: inherit;
+    margin-top: 5px;
+}
